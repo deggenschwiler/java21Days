@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class RangeLister {
     int[] makeRange(int lower, int upper) {
         int[] range = new int[(upper-lower)+1];

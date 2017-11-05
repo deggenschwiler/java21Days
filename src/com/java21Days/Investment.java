@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class Investment {
 
     public static void main(String[] arguments){

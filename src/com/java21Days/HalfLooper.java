@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class HalfLooper {
     public static void main(String[] arguments){
         int[] denver = { 1_700__000, 4_600_000, 2_100_000 };

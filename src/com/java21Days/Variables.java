@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 import java.awt.desktop.SystemSleepEvent;
 
 public class Variables {

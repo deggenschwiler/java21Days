@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 import java.awt.Point;
 
 public class Box {

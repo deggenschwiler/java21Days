@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class Passer {
 
     void toUpperCase(String[] text) {

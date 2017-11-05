@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 import java.util.Scanner;
 
 public class Weather {

@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class ArrayCopier {
 
     public static void main(String[] arguments) {

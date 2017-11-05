@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 import java.math.*;
 
 public class StringChecker {

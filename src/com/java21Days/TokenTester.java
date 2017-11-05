@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 import java.util.StringTokenizer;
 
 class TokenTester {

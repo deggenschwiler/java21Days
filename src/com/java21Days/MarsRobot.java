@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 class MarsRobot {
     String status;
     int speed;

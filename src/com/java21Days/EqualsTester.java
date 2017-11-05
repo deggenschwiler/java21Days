@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class EqualsTester {
     public static void main(String[] arguments){
         String str1, str2;

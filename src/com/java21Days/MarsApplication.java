@@ -1,6 +1,4 @@
-package com.darrentrying;
-
- class MarsApplication {
+class MarsApplication {
 
     public static void main(String[] arguments) {
 

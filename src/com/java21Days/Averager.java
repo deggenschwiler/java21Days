@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class Averager {
     public static void main(String[] arguments){
         int sum = 0;

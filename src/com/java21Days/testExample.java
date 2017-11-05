@@ -1,5 +1,3 @@
-package com.darrentrying;
-
 public class testExample {
     public static void main(String[] arguments){
         float x = 9;
