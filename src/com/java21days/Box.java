@@ -1,3 +1,5 @@
+package com.java21days;
+
 import java.awt.Point;
 
 public class Box {
