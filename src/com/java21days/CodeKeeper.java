@@ -3,11 +3,11 @@ package com.java21days;
 import java.util.*;
 
 public class CodeKeeper {
-    ArrayList list;
+    ArrayList<String> list;
     String[] codes = { "alpha", "lambda", "gamma", "delta", "zeta" };
 
     public CodeKeeper(String[] userCodes) {
-        list = new ArrayList();
+        list = new ArrayList<>();
         // load built in codes
         for (int i = 0; i < codes.length; i++) {
             addCode(codes[i]);
