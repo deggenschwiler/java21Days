@@ -25,7 +25,9 @@ public class Authenticator extends javax.swing.JFrame {
         pane.add(passwordLabel);
         pane.add(password);
         pane.add(commentsLabel);
-        pane.add(comments);
+        //adding scrollable comments
+        JScrollPane scroll = new JScrollPane(comments, ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED, ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        pane.add(scroll);
         pane.add(ok);
         pane.add(cancel);
         add(pane);
